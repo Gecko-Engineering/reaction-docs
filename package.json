@@ -72,6 +72,6 @@
     "eslint-plugin-react": ">=7",
     "jest-junit": "3.6.0",
     "rimraf": "^2.6.2",
-    "snyk": "^1.69"
+    "snyk": "^1.996"
   }
 }
